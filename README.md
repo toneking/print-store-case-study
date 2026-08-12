@@ -1,3 +1,4 @@
+<img width="1489" height="1000" alt="PM Picts-app screenshot__01" src="https://github.com/user-attachments/assets/2f0c10f8-68fc-41e0-a375-662d14a4548c" />
 # Peter McCabe Pictures Print Store
 
 A case study for a full-stack fine art print commerce app built for browsing, configuring, and purchasing photography prints.
@@ -41,24 +42,24 @@ The source code is private, but the live production app is available here:
 ## Screenshots
 
 ### Home - Dark Mode
-
-_Add screenshot of the homepage in dark mode here._
+<img width="1489" height="1000" alt="PM Picts-app screenshot__01" src="https://github.com/user-attachments/assets/90fa4d44-e899-4b2d-93a6-9d626808acfe" />
 
 ### Home - Light Mode
 
-_Add screenshot of the homepage in light mode here._
+<img width="1381" height="1000" alt="PM Picts-app screenshot__16" src="https://github.com/user-attachments/assets/eb76b8a5-5629-4656-93a6-d998201320fc" />
 
 ### Gallery
 
-_Add screenshot of the all-works gallery here._
+<img width="1600" height="713" alt="PM Picts-app screenshot__02" src="https://github.com/user-attachments/assets/bca4b868-b6ff-4fc9-b65d-dcc6ca83cec6" />
 
 ### Artwork Detail Page
 
-_Add screenshot of a product detail page with size/substrate options here._
+<img width="1445" height="1000" alt="PM Picts-app screenshot__08" src="https://github.com/user-attachments/assets/f643b093-516e-486d-b59d-a17c544c2a21" />
 
 ### Cart Flow
 
-_Add screenshot of the cart page or cart state here._
+<img width="1600" height="715" alt="PM Picts-app screenshot__06" src="https://github.com/user-attachments/assets/9ba6c7fc-03ad-4d04-969b-627b08f00c3d" />
+
 
 ## What I Built
 
