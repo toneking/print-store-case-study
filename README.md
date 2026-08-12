@@ -98,6 +98,7 @@ This repository exists as a public case study so reviewers can understand the pr
 - Practical use of modern web infrastructure
 - Attention to visual polish and responsive design
 - Ability to connect frontend experience with dynamic backend data
+- Theme-aware UI design with dark and light modes
 
 ## Live Demo
 
