@@ -66,6 +66,10 @@ I designed and built the full application experience, including the public store
 
 The project combines product design, frontend engineering, data modeling, media presentation, and production deployment. The goal was to create a polished commerce experience that feels appropriate for fine art photography while still functioning like a practical full-stack product.
 
+## Role
+
+Solo designer and developer. I handled product design, frontend implementation, data modeling, image/content structure, deployment, and the public case-study documentation.
+
 ## Architecture Summary
 
 The app is built as a Next.js application deployed on Vercel. Artwork, collection, pricing, edition, and variant data are represented as dynamic content rather than static pages. Images are served from Supabase-backed storage and rendered through optimized frontend views for gallery and product browsing.
