@@ -29,6 +29,7 @@ The source code is private, but the live production app is available here:
 - Individual artwork detail pages
 - Product variants by size and substrate
 - Limited edition tracking
+- Built-in dark and light theme modes
 - Cart flow
 - Sign-in/account entry point
 - Responsive design for desktop and mobile
@@ -39,9 +40,13 @@ The source code is private, but the live production app is available here:
 
 ## Screenshots
 
-### Home
+### Home - Dark Mode
 
-_Add screenshot of the homepage hero here._
+_Add screenshot of the homepage in dark mode here._
+
+### Home - Light Mode
+
+_Add screenshot of the homepage in light mode here._
 
 ### Gallery
 
