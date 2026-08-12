@@ -1,4 +1,3 @@
-<img width="1489" height="1000" alt="PM Picts-app screenshot__01" src="https://github.com/user-attachments/assets/2f0c10f8-68fc-41e0-a375-662d14a4548c" />
 # Peter McCabe Pictures Print Store
 
 A case study for a full-stack fine art print commerce app built for browsing, configuring, and purchasing photography prints.
